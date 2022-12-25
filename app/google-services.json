@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "750282088322",
+    "firebase_url": "https://hopepet-837a3-default-rtdb.firebaseio.com",
+    "project_id": "hopepet-837a3",
+    "storage_bucket": "hopepet-837a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750282088322:android:bf1aa647dfc54caef0799b",
+        "android_client_info": {
+          "package_name": "com.example.hopepet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750282088322-rs8ksmfj9fcmblgb267k8kugh61udiur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hopepet",
+            "certificate_hash": "9202296f61313bd8296ade3fc3027d1f5f3465d5"
+          }
+        },
+        {
+          "client_id": "750282088322-i1lji633r59b0pp6lvannh1p831j0hnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEatGmixm5vA4gC7t59mmo3RZFyQVjlCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750282088322-i1lji633r59b0pp6lvannh1p831j0hnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
